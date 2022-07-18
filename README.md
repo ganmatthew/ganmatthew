@@ -3,4 +3,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ganmatthew&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganmatthew&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ganmatthew&theme=nord_dark&utcOffset=8)
-![](https://komarev.com/ghpvc/?username=ganmatthew&color=green)
